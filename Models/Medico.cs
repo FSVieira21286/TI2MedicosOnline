@@ -10,6 +10,7 @@ namespace TI2MedicosOnline.Models
     public class Medico
     {
 
+
         /// <summary>
         /// id do médico
         /// </summary>
